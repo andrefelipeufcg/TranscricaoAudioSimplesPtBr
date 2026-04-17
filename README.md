@@ -1,8 +1,10 @@
 # 🎙️ Transcrição de Áudio Simples PT-BR
 
-Uma aplicação web moderna, limpa e funcional para transcrição de áudio em Português Brasileiro, desenvolvida com Python e Inteligência Artificial de ponta.
+Uma aplicação web moderna, limpa e funcional para transcrição de áudio em Português Brasileiro, utilizando Inteligência Artificial de ponta para converter reuniões presenciais e entrevistas em documentos editáveis de forma rápida e segura.
 
 > **Trabalho Final do Curso:** INTELIGÊNCIA ARTIFICIAL APLICADA À GESTÃO E INOVAÇÃO NO SERVIÇO PÚBLICO.
+
+🚀 **Acesse a aplicação rodando na nuvem:** [Clique aqui para testar a Transcrição de Áudio Simples PT-BR](https://transcricaoaudiosimplesptbr.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
@@ -15,7 +17,6 @@ Uma aplicação web moderna, limpa e funcional para transcrição de áudio em P
 - **Transcrição de Alta Precisão:** Utiliza o modelo `small` do OpenAI Whisper, configurado especificamente para captar nuances do Português (PT-BR).
 - **Compatibilidade Total:** Suporte para múltiplos formatos de áudio: `.mp3`, `.wav`, `.m4a`, `.ogg` e `.flac`.
 - **Interface Focada em UX:** 
-  - Barra de progresso visual de 0 a 100%.
   - Feedback em tempo real sobre cada etapa do processamento.
   - Design limpo, sem distrações e fácil de usar para usuários leigos.
 - **Exportação Multiformato:** Converta o áudio e baixe o resultado imediatamente:
