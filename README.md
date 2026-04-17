@@ -1,4 +1,4 @@
-# 🎙️ Transcritor Pro IA
+# 🎙️ Transcritor de Áudio Simples PT-BR
 
 Uma aplicação web moderna, limpa e funcional para transcrição de áudio em Português Brasileiro, desenvolvida com Python e Inteligência Artificial de ponta.
 
