@@ -1,0 +1,9 @@
+streamlit
+openai-whisper
+pydub
+fpdf2
+python-docx
+google-api-python-client
+google-auth-oauthlib
+torch
+setuptools-rust
