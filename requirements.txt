@@ -3,6 +3,7 @@ openai-whisper
 pydub
 fpdf2
 python-docx
+audioop-lts
 google-api-python-client
 google-auth-oauthlib
 torch
