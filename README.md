@@ -4,7 +4,7 @@ Uma aplicação web moderna, limpa e funcional para transcrição de áudio em P
 
 > **Trabalho Final do Curso:** INTELIGÊNCIA ARTIFICIAL APLICADA À GESTÃO E INOVAÇÃO NO SERVIÇO PÚBLICO.
 
-🚀 **Acesse a aplicação rodando na nuvem:** [Clique aqui para testar a Transcrição de Áudio Simples PT-BR](https://transcricaoaudiosimplesptbr.streamlit.app/)
+🚀 **Acesse a aplicação rodando na nuvem:** https://transcricaoaudiosimplesptbr.streamlit.app/
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
