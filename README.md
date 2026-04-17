@@ -84,13 +84,12 @@ Para garantir um resultado de nível sênior, foram aplicadas as seguintes melho
 1. **Estabilidade de Idioma:** Configuramos o parâmetro `language='pt'` de forma fixa para evitar que o modelo tente adivinhar o idioma e acabe gerando textos em outros alfabetos (como coreano ou japonês).
 2. **Otimização de Performance:** Utilizamos o modelo `small`. Ele é um equilíbrio ideal: muito mais preciso que o modelo `base`, mas ainda leve o suficiente para rodar em computadores comuns sem necessidade de placas de vídeo (GPU) profissionais.
 3. **Robustez via FP16:** Desativamos o `fp16` para garantir que o processamento em CPUs (comum em ambientes de serviço público) ocorra sem erros de cálculo ou repetições infinitas de texto.
-4. **UX Progressiva:** A barra de progresso não é meramente decorativa; ela acompanha o fluxo lógico de carregamento de memória, conversão de arquivo e inferência da IA.
 
 ---
 
 ## 📝 Licença
 
-Este projeto é um protótipo funcional desenvolvido para o curso **Inteligência Artificial Aplicada à Gestão e Inovação no Serviço Público**.
+Este projeto é um protótipo funcional desenvolvido durante o curso **Inteligência Artificial Aplicada à Gestão e Inovação no Serviço Público**.
 
 ---
 
