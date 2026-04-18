@@ -87,9 +87,4 @@ Para garantir um resultado de nível sênior, foram aplicadas as seguintes melho
 
 ## 📝 Licença
 
-Este projeto é um protótipo funcional desenvolvido durante o curso **Inteligência Artificial Aplicada à Gestão e Inovação no Serviço Público**.
-
----
-
-
-> **Trabalho Final do Curso:** [Inteligência Artificial Aplicada à Gestão e Inovação no Serviço Público](https://sites.google.com/view/painel-turma1/projetos).
+Este projeto é um protótipo funcional desenvolvido durante o curso [Inteligência Artificial Aplicada à Gestão e Inovação no Serviço Público](https://sites.google.com/view/painel-turma1/projetos).
