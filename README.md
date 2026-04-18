@@ -2,7 +2,7 @@
 
 Uma aplicação web moderna, limpa e funcional para transcrição de áudio em Português Brasileiro, utilizando Inteligência Artificial de ponta para converter reuniões presenciais e entrevistas em documentos editáveis de forma rápida e segura.
 
-> **Trabalho Final do Curso:** [INTELIGÊNCIA ARTIFICIAL APLICADA À GESTÃO E INOVAÇÃO NO SERVIÇO Público](https://sites.google.com/view/painel-turma1/projetos).
+> **Trabalho Final do Curso:** [Inteligência Artificial Aplicada à Gestão e Inovação no Serviço Público](https://sites.google.com/view/painel-turma1/projetos).
 
 🚀 **Acesse a aplicação rodando na nuvem:** https://transcricaoaudiosimplesptbr.streamlit.app/
 
